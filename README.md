@@ -4,9 +4,9 @@ Text Editor with grammar support and a real-time thesaurus as you type.
 This repo was created if the site stopped working or you need source code so you could build it yourself.
 The code can be run and compiled with nw.js, although it still works an an independent web app. 
 
-Windows - Orwell-Writer-win.zip 
+Windows - Win-x64.zip 
 
-Mac - Orwell Writer-mac.rar (don't know if it works)
+Mac - Mac-x64.rar (don't know if it works)
 
 # Credits: (licenses here)
 
