@@ -1,0 +1,50 @@
+{
+    "main": "index.html",
+    "version": "0.1.0",
+    "additional_trust_anchors": [],
+    "nodejs": true,
+    "app_name": "Orwell Writer",
+    "name": "Orwel-Writer",
+    "window": {
+        "always_on_top": false,
+        "visible": true,
+        "as_desktop": false,
+        "fullscreen": false,
+        "transparent": false,
+        "frame": true,
+        "position": "center",
+        "width": 800,
+        "kiosk": false,
+        "height": 600,
+        "id": "Orwell Writer",
+        "kiosk_emulation": false,
+        "show_in_taskbar": true,
+        "icon": "icon.ico",
+        "visible_on_all_workspaces": false,
+        "toolbar": false,
+        "title": "Orwell Writer",
+        "show": true,
+        "resizable": true
+    },
+    "webkit": {
+        "plugin": true,
+        "double_tap_to_zoom_enabled": false
+    },
+    "webexe_settings": {
+        "nw_version": "0.17.1",
+        "sdk_build": false,
+        "export_dir": "output",
+        "uncompressed_folder": false,
+        "download_dir": "C:\\Users\\Manav\\Downloads\\nwjs-v0.17.1-win-x64\\nwjs-v0.17.1-win-x64",
+        "mac-x64": true,
+        "custom_script": "",
+        "output_pattern": "",
+        "windows-x32": false,
+        "nw_compression_level": 4,
+        "linux-x64": false,
+        "linux-x32": false,
+        "windows-x64": true,
+        "force_download": false
+    },
+    "node-remote": []
+}
